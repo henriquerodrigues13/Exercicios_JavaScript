@@ -1,0 +1,10 @@
+let idade = 42;
+console.log(typeof idade);
+idade = "42";
+console.log(typeof idade);
+idade = true;
+console.log(typeof idade);
+idade = undefined;
+console.log(typeof idade);
+idade = [1,2];
+console.log(typeof idade);
